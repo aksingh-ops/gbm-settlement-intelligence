@@ -1,0 +1,12 @@
+counterparty_id,counterparty_type,counterparty_size,total_fail_events,tickers_affected,active_fail_days,total_shares_failed,fail_value_millions,avg_fail_rate_pct,avg_settlement_lag,slo_breaches,slo_breach_rate_pct,max_consecutive_fails,critical_fail_events,rank_by_value,rank_by_slo_breach,rank_by_fail_rate,risk_quartile,risk_percentile,composite_risk_score
+HEDGE_B,Hedge Fund,mid,907,38,341,275408169.0,24093.49,1.2668,1.75,55.0,6.06,4,653.0,4,4,1,2,70.0,0.76
+REGB_B,Regional Broker,mid,981,38,348,293820317.0,25197.65,1.2081,1.71,53.0,5.4,5,719.0,2,6,3,1,90.0,0.72
+FOREIGN_B,Foreign Dealer,large,941,38,346,272472595.0,23660.51,1.1445,1.74,58.0,6.16,4,673.0,5,2,5,2,60.0,0.68
+PRIME_B,Prime Broker,large,987,38,349,266228742.0,21936.24,0.9654,1.73,67.0,6.79,4,646.0,7,1,9,3,40.0,0.6
+HEDGE_A,Hedge Fund,mid,935,38,359,276249798.0,25402.05,1.2188,1.74,45.0,4.81,4,691.0,1,11,2,1,100.0,0.58
+FOREIGN_A,Foreign Dealer,large,993,38,354,280735683.0,24489.15,1.0968,1.74,50.0,5.04,6,686.0,3,8,6,1,80.0,0.54
+PRIME_C,Prime Broker,large,987,38,355,269514995.0,21247.46,1.0211,1.75,59.0,5.98,5,633.0,8,5,7,3,30.0,0.44
+REGB_A,Regional Broker,mid,917,38,347,278386401.0,22835.15,1.1544,1.71,45.0,4.91,4,628.0,6,9,4,2,50.0,0.42
+CUSTODY_A,Custodian,large,926,38,343,233316364.0,19172.81,0.8623,1.74,57.0,6.16,5,562.0,11,2,11,4,0.0,0.32
+PRIME_A,Prime Broker,large,902,38,347,236243805.0,20089.91,0.9696,1.74,48.0,5.32,4,586.0,10,7,8,4,10.0,0.26
+CUSTODY_B,Custodian,large,980,38,346,256777332.0,21176.32,0.9055,1.67,48.0,4.9,4,602.0,9,10,10,3,20.0,0.14

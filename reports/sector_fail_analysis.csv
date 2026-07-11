@@ -1,0 +1,15 @@
+sector,asset_class,is_post_t1,tickers,fail_records,fail_value_M,avg_fail_rate,slo_breach_pct,pct_of_total_fails,sector_rank
+Technology,Technology Equity,0,7,515,18787.27,0.834,13.98,29.55,1
+ETF,ETF,0,5,366,13796.45,1.0872,12.02,21.7,2
+Consumer,Consumer Equity,0,8,572,10868.29,0.9894,13.11,17.1,3
+Financials,Financials Equity,0,8,580,7498.79,1.3572,13.97,11.8,4
+Healthcare,Healthcare Equity,0,5,367,4792.27,1.2542,12.81,7.54,5
+Bond ETF,Bond ETF,0,3,205,4587.43,1.174,14.15,7.22,6
+Energy,Energy Equity,0,2,147,3239.78,1.1366,13.61,5.1,7
+Technology,Technology Equity,1,7,1384,48549.77,0.7302,2.96,26.14,1
+ETF,ETF,1,5,1032,38591.07,1.1604,3.49,20.78,2
+Consumer,Consumer Equity,1,8,1638,34403.24,0.9199,2.32,18.52,3
+Financials,Financials Equity,1,8,1613,22833.9,1.2647,3.22,12.29,4
+Bond ETF,Bond ETF,1,3,600,15475.32,1.199,2.33,8.33,5
+Healthcare,Healthcare Equity,1,5,1022,14986.13,1.1789,2.54,8.07,6
+Energy,Energy Equity,1,2,415,10891.0,1.1849,2.41,5.86,7

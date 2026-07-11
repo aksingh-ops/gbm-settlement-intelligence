@@ -1,0 +1,25 @@
+fail_reason,counterparty_type,occurrences,fail_value_M,avg_fail_rate,avg_lag_days,slo_breach_pct,tickers_affected,counterparties_involved,rank_within_cp_type,pct_of_cp_type_fails
+Custodian Delay,Custodian,836,17312.0,0.9053,1.7,5.5,38,2,1,42.91
+Corporate Action,Custodian,481,10056.1,0.8668,1.69,5.41,38,2,2,24.92
+Securities Lending Recall,Custodian,393,8681.68,0.9013,1.7,5.34,38,2,3,21.52
+System Issue,Custodian,196,4299.35,0.8059,1.71,6.12,38,2,4,10.66
+FX Settlement Mismatch,Foreign Dealer,581,14365.93,1.1461,1.73,6.02,38,2,1,29.84
+SSI Mismatch,Foreign Dealer,571,13834.37,1.0911,1.77,6.83,38,2,2,28.73
+Custodian Delay,Foreign Dealer,510,12909.57,1.13,1.7,4.31,38,2,3,26.81
+Corporate Action,Foreign Dealer,272,7039.8,1.106,1.77,4.41,38,2,4,14.62
+Short Sale Locate Failure,Hedge Fund,714,19187.8,1.2532,1.77,5.46,38,2,1,38.77
+Securities Lending Recall,Hedge Fund,552,14562.64,1.2375,1.74,5.8,38,2,2,29.42
+Counterparty Error,Hedge Fund,401,10996.23,1.2197,1.76,5.24,38,2,3,22.22
+SSI Mismatch,Hedge Fund,175,4748.86,1.2663,1.59,4.57,38,2,4,9.59
+Securities Lending Recall,Prime Broker,752,16264.85,0.9932,1.76,6.52,38,3,1,25.71
+SSI Mismatch,Prime Broker,585,12691.26,0.9628,1.72,4.96,38,3,2,20.06
+Custodian Delay,Prime Broker,512,11528.52,0.9926,1.77,7.81,38,3,3,18.22
+Short Sale Locate Failure,Prime Broker,495,11202.1,0.9719,1.74,5.25,38,3,4,17.7
+Corporate Action,Prime Broker,330,7273.17,1.017,1.75,6.67,38,3,5,11.49
+System Issue,Prime Broker,202,4313.71,0.9914,1.63,3.96,38,3,6,6.82
+Securities Lending Recall,Regional Broker,440,11293.9,1.1862,1.68,5.0,38,2,1,23.51
+SSI Mismatch,Regional Broker,385,9377.92,1.1721,1.7,4.68,38,2,2,19.52
+Custodian Delay,Regional Broker,347,8646.01,1.1933,1.68,4.61,38,2,3,18.0
+Short Sale Locate Failure,Regional Broker,340,8374.95,1.1731,1.73,5.59,38,2,4,17.44
+Corporate Action,Regional Broker,245,6749.39,1.139,1.73,5.31,38,2,5,14.05
+System Issue,Regional Broker,141,3590.63,1.2664,1.85,7.09,37,2,6,7.48
